@@ -16,4 +16,4 @@
 - [ ] final report explains approach, experiments, results, and conclusions.
 - [ ] repo contains research poster.
 - [ ] The generated images look acceptable by human judges (us).
-- [ ] Synthetic data generated using this model improve accuracy of a classification model.
+- [ ] Synthetic data generated using this model improves accuracy of a classification model.
