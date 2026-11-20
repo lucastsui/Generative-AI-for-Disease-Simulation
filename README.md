@@ -2,7 +2,8 @@
 
 ## Deliverables
 
-- [ ] Decide which model to use (GAN, Diffusion, VAE).
+- [ ] Build a diffusion model.
+- [ ] Optional: build GAN and VAE models for comparison.
 - [ ] Project Proposal is in repo.
 - [ ] Project Proposal describes team roles.
 - [ ] Project Proposal contains project goal and methodology.
